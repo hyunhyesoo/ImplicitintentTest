@@ -1,4 +1,4 @@
-package kr.ac.kopo.implicitlntenttest;
+package kr.ac.kopo.implicitintenttest;
 
 import android.app.SearchManager;
 import android.content.Intent;
